@@ -1,0 +1,5 @@
+What is the capital of France?,Paris
+What is 5 + 7?,12
+Who wrote 'Hamlet'?,Shakespeare
+What is the square root of 64?,8
+Which planet is known as the Red Planet?,Mars

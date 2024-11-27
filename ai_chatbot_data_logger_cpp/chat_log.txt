@@ -1,0 +1,6 @@
+[Tue Nov 26 22:10:00 2024] You: hello
+[Tue Nov 26 22:10:00 2024] Chatbot: Hello! How can I help you today?
+[Tue Nov 26 22:10:06 2024] You: how are you
+[Tue Nov 26 22:10:06 2024] Chatbot: I'm just a bunch of code, but I'm doing fine! How about you?
+[Tue Nov 26 22:10:11 2024] You: bye
+[Tue Nov 26 22:10:11 2024] Chatbot: Goodbye! Have a great day!
